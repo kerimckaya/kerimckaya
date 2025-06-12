@@ -53,7 +53,6 @@
 ### 📬 Bana Ulaşın
 
 - 📧 kerimkayasa@gmail.com <!-- isteğe bağlı olarak değiştirebiliriz -->
-- 🌐 [GitHub Repositories](https://github.com/kerimckaya?tab=repositories)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kerimckaya/) <!-- eğer varsa -->
 
 ---

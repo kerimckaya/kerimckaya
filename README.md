@@ -123,7 +123,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerimckaya&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kerimckaya" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimckaya&layout=compact&theme=github_dark" />
 </p>
 

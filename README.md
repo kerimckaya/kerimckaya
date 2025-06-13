@@ -6,18 +6,21 @@
   Performans Optimizasyonu • Kullanıcı Odaklı Geliştirme
 </p>
 
----
+<hr/>
 
-### 🔍 Hakkımda 
+<h3>🔍 Hakkımda</h3>
 
-- 💼 2022 yılından bu yana Full Stack Developer olarak görev yapıyorum.  
-- ⚙️ ERP, üretim ve muhasebe sistemleri üzerine kurumsal web uygulamaları geliştiriyorum.  
-- 🧠 UI/UX odaklı, performanslı ve çok müşterili sistem mimarileri konusunda deneyim sahibiyim.  
-- 📚 Yeni teknolojileri araştırmak ve en iyi çözümleri üretmek temel önceliğimdir.
+<ul>
+  <li>💼 2022 yılından bu yana Full Stack Developer olarak görev yapıyorum.</li>
+  <li>⚙️ ERP, üretim ve muhasebe sistemleri üzerine kurumsal web uygulamaları geliştiriyorum.</li>
+  <li>🔄 Entegrasyon projeleri ve RESTful API mimarilerinde aktif rol alıyorum.</li>
+  <li>🧩 UI/UX odaklı, performanslı ve çok müşterili sistem mimarileri konusunda deneyim sahibiyim.</li>
+  <li>🔬 Teknolojiyle iç içe olmayı ve araştırma yaparak sistemleri daha verimli hale getirmeyi severim.</li>
+</ul>
 
----
+<hr/>
 
-### 🛠️ Kullandığım Teknolojiler
+<h3>🛠️ Kullandığım Teknolojiler</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -30,39 +33,42 @@
   <img src="https://img.shields.io/badge/REST-API-6DB33F?style=for-the-badge&logo=rest&logoColor=white" />
 </p>
 
----
+<hr/>
 
-### 📌 Uzmanlık Alanlarım
+<h3>📌 Uzmanlık Alanlarım</h3>
 
-- 🔄 Veritabanı yönetimi
-- 🧩 UI/UX stabilizasyonu ve kullanıcı deneyimi
-- 🌐 Web tabanlı iş süreçleri otomasyonu
-- 🔐 Güvenli ve sürdürülebilir uygulama altyapıları
+<ul>
+  <li>🔄 Veritabanı yönetimi ve sorgu optimizasyonu</li>
+  <li>🌐 Entegrasyon süreçleri ve API geliştirme</li>
+  <li>🧩 UI/UX stabilizasyonu ve kullanıcı deneyimi</li>
+  <li>📈 Web tabanlı iş süreçleri otomasyonu</li>
+  <li>🔐 Güvenli ve sürdürülebilir uygulama altyapıları</li>
+  <li>🔧 Sürekli iyileştirme ve araştırma temelli geliştirme yaklaşımı</li>
+</ul>
 
----
+<hr/>
 
-### 📊 GitHub İstatistiklerim
+<h3>📊 GitHub İstatistiklerim</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kerimckaya&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimckaya&layout=compact&theme=github_dark" />
 </p>
 
----
+<hr/>
 
-### 📬 Bana Ulaşın
+<h3>📬 Bana Ulaşın</h3>
 
-- 📧 kerimkayasa@gmail.com <!-- isteğe bağlı olarak değiştirebiliriz -->
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kerimckaya/) <!-- eğer varsa -->
-
----
+<ul>
+  <li>📧 kerimkayasa@gmail.com</li>
+  <li>🌐 <a href="https://www.linkedin.com/in/kerimckaya/">LinkedIn</a></li>
+</ul>
 
 <p align="center">
-  💡 “Karmaşık sistemler sade temeller üzerine inşa edilmelidir.”  
+  💡 “Karmaşık sistemler sade temeller üzerine inşa edilmelidir.”
 </p>
 
-<p align="center"> ENGLISH </p>
-
+<hr/>
 
 <h1 align="center">Hi, I'm Kerim 👋</h1>
 
@@ -72,18 +78,21 @@
   Performance Optimization • User-Centric Development
 </p>
 
----
+<hr/>
 
-### 🔍 About Me
+<h3>🔍 About Me</h3>
 
-- 💼 Working as a Full Stack Developer since 2022.  
-- ⚙️ Building enterprise-level web applications for ERP, manufacturing, and accounting systems.  
-- 🧠 Experienced in multi-tenant architectures with a focus on UI/UX and high performance.  
-- 📚 Passionate about exploring new technologies and crafting optimal solutions.
+<ul>
+  <li>💼 Working as a Full Stack Developer since 2022.</li>
+  <li>⚙️ Developing enterprise web apps for ERP, accounting and production systems.</li>
+  <li>🔄 Actively involved in integration projects and RESTful API design.</li>
+  <li>🧩 Experienced in multi-tenant architecture and performance-focused UI/UX.</li>
+  <li>🔬 I enjoy exploring technologies and optimizing workflows through continuous improvement.</li>
+</ul>
 
----
+<hr/>
 
-### 🛠️ Technologies I Use
+<h3>🛠️ Technologies I Use</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -96,35 +105,37 @@
   <img src="https://img.shields.io/badge/REST-API-6DB33F?style=for-the-badge&logo=rest&logoColor=white" />
 </p>
 
----
+<hr/>
 
-### 📌 Key Areas of Expertise
+<h3>📌 Key Areas of Expertise</h3>
 
-- 🔄 Database Management  
-- 🧩 UI/UX Stabilization and User Experience  
-- 🌐 Web-Based Business Process Automation  
-- 🔐 Secure and Maintainable Application Infrastructure
+<ul>
+  <li>🔄 Database management & query optimization</li>
+  <li>🌐 Integration and API development</li>
+  <li>🧩 UI/UX stabilization and user experience</li>
+  <li>📈 Web-based business process automation</li>
+  <li>🔐 Secure and maintainable application infrastructure</li>
+  <li>🔧 Research-driven and continuous improvement mindset</li>
+</ul>
 
----
+<hr/>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kerimckaya&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimckaya&layout=compact&theme=github_dark" />
 </p>
 
----
+<hr/>
 
-### 📬 Contact Me
+<h3>📬 Contact Me</h3>
 
-- 📧 kerimkayasa@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kerimckaya/)
-
----
+<ul>
+  <li>📧 kerimkayasa@gmail.com</li>
+  <li>🌐 <a href="https://www.linkedin.com/in/kerimckaya/">LinkedIn</a></li>
+</ul>
 
 <p align="center">
   💡 “Complex systems should be built on simple foundations.”
 </p>
-
-

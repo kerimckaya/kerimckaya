@@ -48,7 +48,7 @@
 
 <hr/>
 
-<h3>📊 GitHub İstatistiklerim</h3>
+<h3>📊 Geliştirme İstatistiklerim</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
@@ -119,7 +119,7 @@
 
 <hr/>
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 Coding Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  

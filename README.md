@@ -50,11 +50,8 @@
 
 <h3>📊 GitHub İstatistiklerim</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimckaya&layout=compact&theme=github_dark" />
-  
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
 </p>
 
 <hr/>
@@ -125,7 +122,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kerimckaya" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
 </p>
 
 <hr/>

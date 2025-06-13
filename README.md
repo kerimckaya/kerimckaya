@@ -124,9 +124,8 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kerimckaya" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimckaya&layout=compact&theme=github_dark" />
 </p>
 
 <hr/>

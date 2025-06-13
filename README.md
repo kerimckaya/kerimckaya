@@ -51,7 +51,7 @@
 <h3>📊 GitHub İstatistiklerim</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerimckaya&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimckaya&layout=compact&theme=github_dark" />
 </p>
 

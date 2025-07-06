@@ -52,7 +52,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=kerimckaya&amp;show_icons=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="kerimckaya's GitHub stats" style="max-width: 100%; height: auto;">
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" /></p>
 </p>

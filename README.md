@@ -51,8 +51,10 @@
 <h3>📊 Geliştirme İstatistiklerim</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" />
 </p>
 
 <hr/>
@@ -123,8 +125,10 @@
 <h3>📊 Coding Stats</h3>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" />
 </p>
 
 <hr/>

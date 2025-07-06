@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
-  <img src="https://camo.githubusercontent.com/03805008f72f26decb74ac69f54b5f7b4de47ae4ce567f6ea41d758843ae8540/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d747275652673686f773d726576696577732c64697363757373696f6e735f737461727465642c64697363757373696f6e735f616e7377657265642c7072735f6d65726765642c7072735f6d65726765645f70657263656e74616765" alt="kerimckaya's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kerimckaya&amp;show_icons=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerimckaya&amp;show_icons=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="kerimckaya's GitHub stats" style="max-width: 100%; height: auto;">
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" /></p>
 </p>

@@ -52,6 +52,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kaya&layout=compact&theme=github_dark" />  
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimckaya&show_icons=true&locale=en" alt="kerimckaya" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimckaya&" alt="kerimckaya" /></p>
 </p>
 
 <hr/>
